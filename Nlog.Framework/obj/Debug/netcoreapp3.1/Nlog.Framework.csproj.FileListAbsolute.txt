@@ -1,0 +1,8 @@
+D:\Practice\NLog\NLogDemo\Nlog.Framework\bin\Debug\netcoreapp3.1\Nlog.Framework.deps.json
+D:\Practice\NLog\NLogDemo\Nlog.Framework\bin\Debug\netcoreapp3.1\Nlog.Framework.dll
+D:\Practice\NLog\NLogDemo\Nlog.Framework\obj\Debug\netcoreapp3.1\Nlog.Framework.csprojAssemblyReference.cache
+D:\Practice\NLog\NLogDemo\Nlog.Framework\obj\Debug\netcoreapp3.1\Nlog.Framework.AssemblyInfoInputs.cache
+D:\Practice\NLog\NLogDemo\Nlog.Framework\obj\Debug\netcoreapp3.1\Nlog.Framework.AssemblyInfo.cs
+D:\Practice\NLog\NLogDemo\Nlog.Framework\bin\Debug\netcoreapp3.1\Nlog.Framework.pdb
+D:\Practice\NLog\NLogDemo\Nlog.Framework\obj\Debug\netcoreapp3.1\Nlog.Framework.dll
+D:\Practice\NLog\NLogDemo\Nlog.Framework\obj\Debug\netcoreapp3.1\Nlog.Framework.pdb
